@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: forestgreen;
+}
+img{
+    width: 50%;
+}
+.at span{
+    color: rgb(255, 198, 93);
+}
+.at img{
+    width: 40%;
+}
